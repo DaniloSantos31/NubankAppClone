@@ -1,19 +1,23 @@
-# nubank
+Flutter Interface Project
+Descrição
+Este projeto é uma replicação de uma interface de aplicativo bancário utilizando o Flutter. Ele foi desenvolvido com layout responsivo, estilização de widgets, boas práticas de design de interface mobile e módulos.
 
-A new Flutter project created with FlutLab - https://flutlab.io
+Estrutura
+Foi dividido em arquivos separados para melhorar a organização e manutenção do código, seguindo boas práticas de modularização.
 
-## Getting Started
+1. Conta
+Exibe o saldo.
+Exibe botões de Pix, Pagamentos, QRCode e Transferência.
+3. Cartão de Crédito
+Mostra o valor da fatura do cartão de crédito e a data de vencimento.
+4. Empréstimo
+Exibe o status do empréstimo.
+Tem informações/textos alinhados utilizando Column e espaçamentos apropriados.
+5. Descubra Mais
+Contém um texto e imagem.
+E o texto "Seguro de vida".
+O botão "Conhecer".
 
-A few resources to get you started if this is your first Flutter project:
-
-- https://flutter.dev/docs/get-started/codelab
-- https://flutter.dev/docs/cookbook
-
-For help getting started with Flutter, view our
-https://flutter.dev/docs, which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-## Getting Started: FlutLab - Flutter Online IDE
-
-- How to use FlutLab? Please, view our https://flutlab.io/docs
-- Join the discussion and conversation on https://flutlab.io/residents
+Dependências:
+SDK padrão para o desenvolvimento da interface.
+É preciso rodar flutter pub get para instalar as dependências antes da execução.
