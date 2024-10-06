@@ -1,5 +1,7 @@
 Flutter Interface Project
+
 Descrição
+
 Este projeto é uma replicação de uma interface de aplicativo bancário utilizando o Flutter. Ele foi desenvolvido com layout responsivo, estilização de widgets, boas práticas de design de interface mobile e módulos.
 
 Estrutura
